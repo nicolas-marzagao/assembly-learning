@@ -1,15 +1,8 @@
-# Learning Assembly Projects
+# Learning Assembly
 
-## Next Projects
+Just a place I can orginize my small assembly projects
 
-1. **Factorial**  
-    Calculate the factorial of a number. This will be a great way to practice loops and recursion in assembly.
-
-2. **Calculator**  
-    Build a simple calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-3. **FizzBuzz**  
-    Implement the classic FizzBuzz problem to practice conditional logic and loops.
-
-4. **Input Reverser**  
-    Create a program that takes user input and reverses it, helping me understand string manipulation in assembly.
+### Good Sources
+- https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+- https://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html
+- https://www.tutorialspoint.com/assembly_programming/index.htm
